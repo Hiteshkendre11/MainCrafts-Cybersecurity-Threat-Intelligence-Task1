@@ -1,12 +1,50 @@
-# MainCrafts Cybersecurity Threat Intelligence Report
+# Hitesh Kendre | Cybersecurity Portfolio
 
-## About the Project
+## About Me
 
-This repository contains my Task 1 submission for the MainCrafts Technology Cyber Security & Ethical Hacking Internship.
+I am a cybersecurity enthusiast with a background in business management and hands-on experience in cybersecurity, ethical hacking, security assessment, and automation.
 
-The project focuses on understanding major cybersecurity threats observed during 2024–2025, their potential impact on organizations, real-world incidents, and preventive security measures.
+This repository contains my cybersecurity internship work, practical labs, technical projects, and security research completed as part of my learning and professional development.
 
-## Threats Covered
+## Cybersecurity Focus
+
+- Cybersecurity & Ethical Hacking
+- Vulnerability Assessment
+- Network Reconnaissance
+- Web Application Security
+- Linux Security
+- Privilege Escalation
+- Threat Intelligence
+- Security Automation
+- SOC & Blue Team Fundamentals
+- Security Monitoring and Analysis
+
+## Projects
+
+### Linux Privilege Escalation Automation Toolkit
+
+An automated Linux security assessment toolkit designed to identify common privilege escalation opportunities and security weaknesses.
+
+**Key areas:**
+- Linux privilege escalation enumeration
+- SUID/SGID checks
+- Sudo configuration analysis
+- Writable files and directories
+- Cron job analysis
+- PATH-related checks
+- Automated security enumeration
+
+**Project:** Unified Mentor Cybersecurity Internship
+
+---
+
+## Internship Work
+
+### MainCrafts Technology — Cyber Security & Ethical Hacking Internship
+
+#### Task 1 — Cybersecurity Threat Intelligence Report
+
+Research and analysis of major cybersecurity threats observed during 2024–2025, including:
 
 - AI-Powered Phishing
 - Ransomware-as-a-Service (RaaS)
@@ -14,56 +52,86 @@ The project focuses on understanding major cybersecurity threats observed during
 - IoT Vulnerabilities
 - Zero-Day Exploits
 
-## Project Objectives
+**Branch:** `Task-1`
 
-- Understand modern cybersecurity threats and how they operate
-- Analyze the potential impact of cyberattacks on organizations
-- Study real-world cybersecurity incidents
-- Identify preventive and defensive security measures
-- Understand emerging trends in cybersecurity
+#### Task 2 — Vulnerable Lab / Security Assessment
 
-## Report Contents
+Practical cybersecurity lab work involving intentionally vulnerable systems and security testing.
 
-1. Executive Summary
-2. Introduction to Cybersecurity
-3. Modern Cyber Threats
-4. Impact Analysis
-5. Real-World Case Studies
-6. Preventive Measures
-7. Future of Cybersecurity
-8. Conclusion
-9. References
+**Branch:** `Task-2`
 
-## Key Security Concepts
+#### Task 3 — Vulnerability Scanning & Assessment
 
-- Multi-Factor Authentication (MFA)
-- Endpoint Detection and Response (EDR)
-- Network Segmentation
-- Patch Management
-- Security Awareness
-- Cloud Security
-- Threat Intelligence
-- Continuous Monitoring
-- Incident Response
+Vulnerability assessment of a deliberately vulnerable DVWA environment using:
 
-## Files
+- Nmap
+- Nikto
+- Dirsearch
+- cURL
 
-- `Cybersecurity_Threat_Report_Task1_Hitesh_Kendre.docx` – Full project report
-- `Cybersecurity_Threat_Report_Task1_Hitesh_Kendre.pdf` – PDF version of the report
+The assessment covered network discovery, port and service enumeration, web server scanning, directory discovery, technical findings, risk assessment, and remediation recommendations.
 
-## What I Learned
+**Branch:** `Task-3`
 
-Through this project, I developed a better understanding of modern cyber threats, their potential business impact, real-world attack scenarios, and the security controls organizations can use to reduce risk.
+---
 
-The project also helped me understand the importance of continuous monitoring, threat intelligence, incident response, and continuous learning in cybersecurity.
+## Tools & Technologies
 
-## Internship
+### Security Tools
 
-**Organization:** MainCrafts Technology  
-**Program:** Cyber Security & Ethical Hacking Internship  
-**Task:** Task 1 – Threat Intelligence Report  
-**Intern:** Hitesh Kendre
+- Kali Linux
+- Nmap
+- Nikto
+- Dirsearch
+- Burp Suite
+- Metasploit
+- Wireshark
+- Gobuster
+- OpenVAS / Nessus
 
-## Disclaimer
+### Operating Systems & Platforms
 
-This project was created for educational and internship purposes as part of my cybersecurity learning journey.
+- Linux
+- Kali Linux
+- Ubuntu
+- Windows
+- VMware
+
+### Programming & Scripting
+
+- Python
+- Bash
+- PowerShell
+- SQL
+- HTML
+
+## Certifications & Training
+
+- Certified Ethical Hacker (CEH v13)
+- Cybersecurity & Ethical Hacking Internship
+- Practical cybersecurity labs and hands-on security training
+
+## Repository Structure
+
+This repository uses separate branches for different internship tasks and projects.
+
+```text
+Main
+│
+└── README.md
+    Common cybersecurity portfolio
+
+Task-1
+└── MainCrafts Task 1
+    Threat Intelligence Report
+
+Task-2
+└── MainCrafts Task 2
+    Vulnerable Lab / Security Assessment
+
+Task-3
+└── MainCrafts Task 3
+    Vulnerability Scanning & Assessment
+
+Additional Projects
+└── Cybersecurity projects and practical labs
